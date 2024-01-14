@@ -1,0 +1,2 @@
+give_one:give_take:give_two:qt_ros/qt_build:qt_ros/qt_create:qt_ros/qt_ros:qt_ros/qt_tutorials:take_one:take_two
+-DCATKIN_DEVEL_PREFIX=/home/jetson/kulla_qt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/kulla_qt_ws/install -G Unix Makefiles

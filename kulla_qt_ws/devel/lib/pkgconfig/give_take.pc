@@ -1,0 +1,8 @@
+prefix=/home/jetson/kulla_qt_ws/devel
+
+Name: give_take
+Description: Description of give_take
+Version: 0.0.1
+Cflags: -I/home/jetson/kulla_qt_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs

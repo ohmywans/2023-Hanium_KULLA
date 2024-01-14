@@ -1,0 +1,13 @@
+<launch>
+	<node name="give_take" pkg="give_take" type="give_take">
+	</node>
+	<node name="give_one" pkg="give_one" type="give_one">
+	</node>
+	<node name="take_one" pkg="take_one" type="take_one">
+	</node>
+
+	<node name="give_two" pkg="give_two" type="give_two">
+	</node>
+	<node name="take_two" pkg="take_two" type="take_two">
+	</node>
+</launch>

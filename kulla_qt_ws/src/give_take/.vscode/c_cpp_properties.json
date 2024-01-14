@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/wans/kulla_ws/devel/include/**",
+        "/home/wans/kmu6_ws/devel/include/**",
+        "/home/wans/boong_ws/devel/include/**",
+        "/home/wans/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/wans/kulla_ws/src/admin_ui/include/**",
+        "/home/wans/kulla_ws/src/alb_pkg/include/**",
+        "/home/wans/kulla_ws/src/merry_win/include/**",
+        "/home/wans/kulla_ws/src/merry_wtwo/include/**",
+        "/home/wans/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/wans/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/wans/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/wans/boong_ws/src/using_markers/include/**",
+        "/home/wans/boong_ws/src/week10_waypoint/include/**",
+        "/home/wans/boong_ws/src/week1_number/include/**",
+        "/home/wans/boong_ws/src/week2_turtlesim/include/**",
+        "/home/wans/boong_ws/src/week4_tf/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
