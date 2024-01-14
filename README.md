@@ -18,6 +18,11 @@
 <img width="544" alt="스크린샷 2023-11-03 113909" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/87c21813-6244-48a7-9125-8dc945635d22">
 </p>
 
+## 호출 구현 GIF
+<p align="center">
+<img width="544" alt="호출 GIF" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/e952a3c5-f6b8-4357-89cd-93a9f8e175d0">
+</p>
+
 # HMI
 HMI 구현 프레임워크: QT, 사용언어: C++, 폴더: kulla_qt_ws
 사용자가 쉽고 편리하게 로봇을 제어할 수 있도록 물품 보관함을 열고 닫을 수 있는 기능과 원하는 거점 선택 기능, 물품을 주고 받는 기능을 모두 구현한 HMI 입니다.
