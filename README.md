@@ -4,11 +4,8 @@
 ## 🏆2023 한이음 ICT공모전 / 한국정보산업연합회장상 수상🏆
 
 ### ALB(Autonomous Logistics Bot) 
+<img src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82.png width="400" height="500"/>
 
-
-<img src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82.png width="400" height="600"/>
-
- 
 ---
 안녕하세요. 2023년 한이음 ICT공모전에서 동상(한국정보산업연합회장상) 수상한 KULLA 팀의 팀장 이수완 입니다.
 다수의 경유지를 두고 로봇은 사용자의 호출 순서에 따라 다음 목적지를 선택하기도 하고, 현 위치로부터 가장 가까운 위치의 
