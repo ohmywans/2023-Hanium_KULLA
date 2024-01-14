@@ -9,8 +9,10 @@
 
 ## 시연 영상
 <p align="center">
-<img width="700" alt="한이음-시연영상 1분버전_자막 있음_용량압축" src="">
+<img width="700" alt="한이음 gif 전체영상 압축" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/eb948533-35a0-467c-a7f0-76da00572a6b">
 </p>
+
+
 
 ## 프로젝트 특징
 1) 메카넘 휠 주행
