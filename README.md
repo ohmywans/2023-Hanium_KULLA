@@ -9,7 +9,7 @@
 
 ## 시연 영상
 <p align="center">
-<img width="700" alt="한이음-시연영상 1분버전_자막 있음_용량압축" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/5552868b-efb4-4646-a54f-709fbc0f18a7">
+<img width="700" alt="한이음-시연영상 1분버전_자막 있음_용량압축" src="">
 </p>
 
 ## 프로젝트 특징
