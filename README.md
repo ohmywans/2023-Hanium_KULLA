@@ -22,7 +22,7 @@ HMI 구현 프레임워크: QT, 사용언어: C++, 폴더: kulla_qt_ws
 
 ## HMI 화면
 ![그림012](https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/2f6fd5a8-e0bf-4c8e-a603-45d7a1583069)
-- give_take 에서 뻗어나가 [give_one -> 발신자 1, take_one -> 수신자 1], [giva_two -> 발신자 2, take_two -> 수신자 2] 로 구분합니다.
+- give_take 에서 뻗어나가 [give_one -> 발신자 1, take_one -> 수신자 1], [give_two -> 발신자 2, take_two -> 수신자 2] 로 구분합니다.
 - Unlock / lock 으로 물품 보관함을 잠금/해제할 수 있습니다.
 - 화면의 지도는 정적 사진으로 resource 에서 사진을 교체할 수 있고, 이는 QT designer 에서 수정 가능합니다.
 - HMI를 만들어두어 디버깅도 편했고, 더욱 완성도 있는 프로젝트를 수행할 수 있게 되었습니다.
