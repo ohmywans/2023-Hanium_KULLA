@@ -20,8 +20,9 @@
 
 ## 호출 구현 GIF
 <p align="center">
-<img width="544" alt="호출 GIF" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/e952a3c5-f6b8-4357-89cd-93a9f8e175d0">
+<img width="544" alt="호출 gif" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/edc0a17f-eee8-4747-b244-35f3b902be40">
 </p>
+
 
 # HMI
 HMI 구현 프레임워크: QT, 사용언어: C++, 폴더: kulla_qt_ws
