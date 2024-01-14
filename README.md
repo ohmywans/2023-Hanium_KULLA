@@ -38,9 +38,8 @@
 
 ---
 ## 알고리즘 명세서
-<p align="center">
 <img width="400" alt="image" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/45442a18-9b23-4e3d-b29a-2c53062e823a">
-</p>
+
 
 ## 메인 알고리즘 1: 최단거리 경유지 알고리즘
 - 거점 선택 시 최단 거리를 우선으로 다음 목적지 선택하는 알고리즘
