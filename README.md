@@ -13,7 +13,7 @@
 근거리에서도 성공적으로 로봇을 즉각 호출할 수 있습니다.
 
 
-
+<img width="544" alt="스크린샷 2023-11-03 113909" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/87c21813-6244-48a7-9125-8dc945635d22">
 
 
 # HMI
