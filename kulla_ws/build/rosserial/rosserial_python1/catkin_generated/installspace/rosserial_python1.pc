@@ -1,0 +1,8 @@
+prefix=/home/jetson/kulla_ws/install
+
+Name: rosserial_python1
+Description: Description of rosserial_python1
+Version: 0.9.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
