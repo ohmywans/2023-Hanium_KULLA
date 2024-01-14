@@ -7,16 +7,23 @@
 다수의 경유지를 두고 로봇은 사용자의 호출 순서에 따라 다음 목적지를 선택하기도 하고, 현 위치로부터 가장 가까운 위치의 
 사용자의 거점을 선택하기도 하는 알고리즘을 제작하여 두 가지로 주행하는 배송 로봇을 구현했습니다.
 
+## 시연 영상
 
+
+## 메인 알고리즘 1: 최단거리 경유지 알고리즘
+- 거점 선택 시 최단 거리를 우선으로 다음 목적지 선택하는 알고리즘
+- short_distance()
+- kulla_ws/src/my_waypoint/src/goal_node.cpp
+
+## 메인 알고리즘 2: 사용자 우선순위 알고리즘
+- 거점 선택 시 호출 순서를 우선으로 다음 목적지 선택하는 알고리즘
+- priority()
+- kulla_ws/src/my_waypoint/src/goal_node.cpp
 
 # 호출 기능
 앱 제작 프레임워크: Android Studio, 사용언어: Java, 폴더: 없음
 로봇에게 접근하지 않고도 로봇을 호출할 수 있도록 구현한 기능입니다. 스마트폰과 자체 제작한 앱으로 블루투스 연결된 로봇을 호출하여
 근거리에서도 성공적으로 로봇을 즉각 호출할 수 있습니다.
-
-<p align="center">
-<img width="544" alt="스크린샷 2023-11-03 113909" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/87c21813-6244-48a7-9125-8dc945635d22">
-</p>
 
 ## 호출 구현 GIF
 <p align="center">
@@ -38,9 +45,18 @@ HMI 구현 프레임워크: QT, 사용언어: C++, 폴더: kulla_qt_ws
 - 화면의 지도는 정적 사진으로 resource 에서 사진을 교체할 수 있고, 이는 QT designer 에서 수정 가능합니다.
 - HMI를 만들어두어 디버깅도 편했고, 더욱 완성도 있는 프로젝트를 수행할 수 있게 되었습니다.
 
+---
+
+# H/W: 물품 보관함 잠금/해제
+Servo motor를 Arduino Uno / L293D와 연결하고 Serial 통신으로 잠금 및 해제를 구현했습니다.
+
+## H/W: 물품 보관함 잠금/해제 3D 설계
+<p align="center">
+<img width="544" alt="스크린샷 2023-11-03 113909" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/87c21813-6244-48a7-9125-8dc945635d22">
+</p>
 
 
-
+---
 
 ### ALB(Autonomous Logistics Bot) 
 <p align="center">
@@ -48,3 +64,5 @@ HMI 구현 프레임워크: QT, 사용언어: C++, 폴더: kulla_qt_ws
 <img width="600" alt="ALB_noFrame" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/4850fe89-6ca5-4531-877c-f61d842b719a">
 </p>
 
+### Youtube 주소
+https://youtu.be/9sB9MVCQnIU?si=3um7l2SVBdeLrFrE
