@@ -32,7 +32,7 @@ HMI 구현 프레임워크: QT, 사용언어: C++, 폴더: kulla_qt_ws
 
 
 ### ALB(Autonomous Logistics Bot) 
-![noframe_front](https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82)
+<img width="544" alt="noframe_front" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82">
 ![ALB_noFrame](https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/4850fe89-6ca5-4531-877c-f61d842b719a)
 
 
