@@ -6,8 +6,7 @@
 ### ALB(Autonomous Logistics Bot) 
 
 
-<img src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82 width="400"
-height="600"/>
+<img src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82.png width="400" height="600"/>
 
  
 ---
