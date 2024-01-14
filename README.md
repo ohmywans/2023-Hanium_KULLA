@@ -1,7 +1,10 @@
 
-#경유지 알고리즘을 활용한 LiDAR 기반 자율주행 물류 배송 로봇
+# 경유지 알고리즘을 활용한 LiDAR 기반 자율주행 물류 배송 로봇
 
-🏆2023 한이음 ICT공모전 / 한국정보산업연합회장상 수상🏆
+## 🏆2023 한이음 ICT공모전 / 한국정보산업연합회장상 수상🏆
+
+### ALB(Autonomous Logistics Bot) 
+![noframe_front](https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/b31cbcdf-b040-4e96-b676-732052cfa4de)
 
 ---
 안녕하세요. 2023년 한이음 ICT공모전에서 동상(한국정보산업연합회장상) 수상한 KULLA 팀의 팀장 이수완 입니다.
