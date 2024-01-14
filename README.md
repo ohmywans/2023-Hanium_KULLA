@@ -4,7 +4,7 @@
 ## 🏆2023 한이음 ICT공모전 / 한국정보산업연합회장상 수상🏆
 
 ### ALB(Autonomous Logistics Bot) 
-![noframe_front]()
+
 <img src="[https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png](https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/b31cbcdf-b040-4e96-b676-732052cfa4de)  width="400" height="600"/>
 
 ---
