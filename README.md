@@ -5,8 +5,10 @@
 
 ### ALB(Autonomous Logistics Bot) 
 
-<img src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82.png  width="400" 
- height="600"/>
+
+<img src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82 width="400"
+height="600"/>
+
  
 ---
 안녕하세요. 2023년 한이음 ICT공모전에서 동상(한국정보산업연합회장상) 수상한 KULLA 팀의 팀장 이수완 입니다.
