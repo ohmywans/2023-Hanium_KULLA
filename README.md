@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기">
 
 #경유지 알고리즘을 활용한 LiDAR 기반 자율주행 물류 배송 로봇
 
