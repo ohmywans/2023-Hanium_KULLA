@@ -8,6 +8,9 @@
 사용자의 거점을 선택하기도 하는 알고리즘을 제작하여 두 가지로 주행하는 배송 로봇을 구현했습니다.
 
 ## 시연 영상
+<p align="center">
+<img width="700" alt="frame" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/5552868b-efb4-4646-a54f-709fbc0f18a7">
+</p>
 
 ## 프로젝트 특징
 1) 메카넘 휠 주행
