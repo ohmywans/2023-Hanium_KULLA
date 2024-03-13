@@ -95,8 +95,7 @@
 
 ### ALB(Autonomous Logistics Bot) 
 <p align="center">
-<img width="600" alt="noframe_front" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82">
-<img width="600" alt="ALB_noFrame" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/4850fe89-6ca5-4531-877c-f61d842b719a">
+<img width="300" alt="noframe_front" src="https://github.com/ohmywans/2023-Hanium_KULLA/assets/104372864/3a1c4066-e611-417c-b651-067b9087fd82">
 </p>
 
 ---
